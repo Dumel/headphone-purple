@@ -12,7 +12,8 @@ body {
 
 header {
     grid-area: header;
-    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
 }
 
 main {
