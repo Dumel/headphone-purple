@@ -1,1 +1,3 @@
-# headphone-purple
+# headphone-purple Razer Kraken
+
+![](./img/screeshot.png)
